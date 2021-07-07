@@ -1,7 +1,6 @@
 # Analysis COVID-19 data and Forecasting the Cases and how does Population effect on spread it
 
-![CoronaVirusHeader.jpg](attachment:CoronaVirusHeader.jpg)
-
+Analysis COVID-19 data and Forecasting the Cases and how does Population effect on spread it
 
  **Abdullah Alaqeel** 
  
