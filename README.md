@@ -1,13 +1,6 @@
 # Analysis COVID-19 data and Forecasting the Cases and how does Population effect on spread it
 
 
- **Abdullah Alaqeel** 
- 
-**Capstone Project**
- 
-**Data Science Immersive - General Assembly** 
- 
- **April 15, 2020**
  
  
  # <center>🎆  Coronavirus disease (COVID-2019)  🎆
